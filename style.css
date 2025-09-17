@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ffffff;
+    color:#525252;
+}
+
+.secao_inicio {
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    background-color: #fffff7;
+    
+}
+
+#imagem_logo {
+    width: 10%;
+    height: 2%;
+    display: block;
+    max-width: 1000px;
+}
+
+.link_pets {
+    padding: 8px;
+    margin: 5px 5px;
+    text-decoration: none;
+    color: #18120a;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.secao_titulo {
+    padding: 15px 10px;
+    margin: 10px;
+    text-align: center;
+    line-height: 60px;
+}
+
+h1 {
+    font-size: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    padding: 10px;
+    margin: 5px;
+    color: #000000;
+    font-style: italic;
+}
+
+#imagem_titulo {
+    width: 45%;
+    height: 25%;
+}
+
+.texto_titulo {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+
+.secao_servicos {
+    text-align: center;
+    padding: 15px;
+    margin: 5px;
+    line-height: 30px;
+}
+h2 {
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    padding: 10px;
+    margin: 5px;
+    color: #000000;
+    font-style: italic;
+}
+
+.secao_servicos-lista {
+    text-align: center;
+    line-height: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.lista_servicos {
+    list-style-type: none;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color:#18120a;
+}
+
+span {
+    font-weight: bold;
+    font-style: oblique;
+}
+
+p {
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 10px;
+    margin: 5px;
+    color: #000000;
+}
+
+.secao_produtos {
+    text-align: center;
+    line-height: 40px;
+    padding: 10px;
+    margin: 8px;
+}
+
+h3 {
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    padding: 10px;
+    margin: 5px;
+    color: #000000;
+    font-style: italic;
+
+}
+
+#cachorro {
+    width: 35%;
+    height: 20%;
+}
+
+.secao_produtos-lista {
+    text-align: center;
+    line-height: 25px;
+    padding: 10px;
+    margin: 5px;
+
+}
+
+.lista_produtos {
+    list-style-type: none;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color:#18120a;
+}
